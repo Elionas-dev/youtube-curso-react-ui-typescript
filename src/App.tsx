@@ -1,4 +1,3 @@
-import { Light } from "@mui/icons-material";
 import { ThemeProvider } from "@mui/material";
 import { BrowserRouter } from "react-router-dom";
 import { AppRoutes } from "./routes";
